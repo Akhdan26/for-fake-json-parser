@@ -1,0 +1,114 @@
+{
+  "restoran": [
+    {
+      "id": 1,
+      "nama": "Warkop Cak Dji",
+      "gambar": "https://1.bp.blogspot.com/-qKw2xBPDeD8/WblD6P94bbI/AAAAAAAAAPs/PyoSaD4D6vsYxj2YsCLoAj0uza_0rk_GwCLcBGAs/s1600/20170912_213919.jpg",
+      "alamat": "https://goo.gl/maps/V69UFL69VPJGh9Kd8",
+      "peringkat": 4.5,
+      "total_user": 669,
+      "no_telp": "-",
+      "jam_buka": "09.00",
+      "jam_tutup": "01.00"
+    },
+    {
+      "id": 2,
+      "nama": "Mie Setan Gajayana",
+      "gambar": "https://www.dimanaja.com/assets/images/cover/ad4e28696e7e7b8dab20ecbf1a0758d622325f45.jpg",
+      "alamat": "https://goo.gl/maps/c5xoAyiTSKoK9qYu8",
+      "peringkat": 4.3,
+      "total_user": 1981,
+      "no_telp": "0818-0383-4922",
+      "jam_buka": "10.00",
+      "jam_tutup": "23.00"
+    },
+    {
+      "id": 3,
+      "nama": "Geprek Kak Rose",
+      "gambar": "https://www.dimanaja.com/assets/images/cover/fe5fe214ab720a43e3ed5938dd0a3a87d4cb84cc.jpg",
+      "alamat": "https://goo.gl/maps/t3fhSSzn8a1tiXU8A",
+      "peringkat": 4.1,
+      "total_user": 1402,
+      "no_telp": "(0341) 5076665",
+      "jam_buka": "00.00",
+      "jam_tutup": "00.00"
+    },
+    {
+      "id": 4,
+      "nama": "Bakso President Malang",
+      "gambar": "https://i0.wp.com/www.kabarpenumpang.com/wp-content/uploads/2019/08/zas.jpg?resize=487%2C255&ssl=1",
+      "alamat": "https://goo.gl/maps/n2H2qcUYqupDSZhy7",
+      "peringkat": 4.1,
+      "total_user": 14821,
+      "no_telp": "0852-2555-5414",
+      "jam_buka": "08.00",
+      "jam_tutup": "20.30"
+    },
+    {
+      "id": 5,
+      "nama": "Pecel Kawi Asli 1975",
+      "gambar": "https://4.bp.blogspot.com/-gaQ-P9GILJA/Wo-VjTlfLzI/AAAAAAAAArQ/PlP2t48xdT8wUJWJUPK9bJASsF0YosHuwCLcBGAs/s1600/IMG_20180216_081932.jpg",
+      "alamat": "https://goo.gl/maps/esvXwDXyjVUm9oZe8",
+      "peringkat": 4.3,
+      "total_user": 3010,
+      "no_telp": "(0341) 5022005",
+      "jam_buka": "06.00",
+      "jam_tutup": "18.00"
+    },
+    {
+      "id": 6,
+      "nama": "Peco Peco Sushi Willis",
+      "gambar": "https://1.bp.blogspot.com/-qKw2xBPDeD8/WblD6P94bbI/AAAAAAAAAPs/PyoSaD4D6vsYxj2YsCLoAj0uza_0rk_GwCLcBGAs/s1600/20170912_213919.jpg",
+      "alamat": "https://goo.gl/maps/MejRTF5cNRzmU7nV7",
+      "peringkat": 4.4,
+      "total_user": 1067,
+      "no_telp": "(0341) 5078198",
+      "jam_buka": "10.00",
+      "jam_tutup": "22.00"
+    },
+    {
+      "id": 7,
+      "nama": "KFC Kawi Malang",
+      "gambar": "https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/ilustrasi-promo-kfc-lima-potong-ayam-mulai-harga-rp-49-ribuan.jpg",
+      "alamat": "https://goo.gl/maps/1yGpiS2b5vfZGapZ9",
+      "peringkat": 4.4,
+      "total_user": 6622,
+      "no_telp": "-",
+      "jam_buka": "00.00",
+      "jam_tutup": "00.00"
+    },
+    {
+      "id": 8,
+      "nama": "Ayam Goreng Tenes",
+      "gambar": "https://www.malang-guidance.com/wp-content/uploads/2013/03/Ayam-Goreng-Tenes-Malang.jpg",
+      "alamat": "https://goo.gl/maps/LgxhtFW8nnMsKgnJ8",
+      "peringkat": 4.5,
+      "total_user": "1964",
+      "no_telp": "(0341) 362553",
+      "jam_buka": "10.00",
+      "jam_tutup": "22.00"
+    },
+    {
+      "id": 9,
+      "nama": "Pos Ketan Legenda - 1967",
+      "gambar": "https://cdn2.tstatic.net/travel/foto/bank/images2/pos-ketan-legenda.jpg",
+      "alamat": "https://goo.gl/maps/6mMhnZ1c5owyHqB87",
+      "peringkat": 4.4,
+      "total_user": 2694,
+      "no_telp": "0813-3431-3353",
+      "jam_buka": "09.00",
+      "jam_tutup": "00.00"
+    },
+    {
+      "id": 10,
+      "nama": "Holycow! Steakhouse by Chef Afit",
+      "gambar": "https://www.malangculinary.com/upload/img_15011298624.jpg",
+      "alamat": "https://g.page/holycowmalang?share",
+      "peringkat": 4.6,
+      "total_user": 1141,
+      "no_telp": "(0341) 573804",
+      "jam_buka": "11.00",
+      "jam_tutup": "22.00"
+    }
+  ]
+}
